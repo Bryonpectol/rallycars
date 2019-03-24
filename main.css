@@ -11,7 +11,8 @@
 }
 
 body {
-    background-image: image(src = "rally.jpg");
+    background-image: 
+    url = ("rally.jpg");
 }
 
 .navlink {
