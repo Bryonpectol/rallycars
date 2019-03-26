@@ -12,7 +12,7 @@
 
 body {
     background-image: 
-    url = ("rally.jpg");
+    url("rally.jpg");
 }
 
 .navlink {
@@ -31,7 +31,12 @@ body {
 }
 
 .maindiv {
+    /* display: flex; */
+    /* justify-content: center; */
     padding-top: 70px;
+    background-color: white;
+    width: 1050px;
+    margin-left: 17%;
 }
 
 .h1 {
